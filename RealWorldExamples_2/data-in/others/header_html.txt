@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>List of movies</title>
+   </head>
+   <body>
+		<h1>Movies</h1>
+		<table style="border: 0px; border-collapse: collapse" width="100%" summary="Readers">
+			<colgroup><col width="10%" /><col width="15%" /><col width="40%" /><col width="15%" /><col width="10%" /><col width="10%" /></colgroup>
+			<thead>
+				<tr>
+					<th style="border: 1px solid black; background: #e5e5e5 repeat-x 50% bottom; padding: 2px">movie_id</th>
+					<th style="border: 1px solid black; background: #e5e5e5 repeat-x 50% bottom; padding: 2px">title</th>
+					<th style="border: 1px solid black; background: #e5e5e5 repeat-x 50% bottom; padding: 2px">description</th>
+					<th style="border: 1px solid black; background: #e5e5e5 repeat-x 50% bottom; padding: 2px">language</th>
+					<th style="border: 1px solid black; background: #e5e5e5 repeat-x 50% bottom; padding: 2px">release year</th>
+					<th style="border: 1px solid black; background: #e5e5e5 repeat-x 50% bottom; padding: 2px">length (min)</th>
+				</tr>
+			</thead>
+			<tbody>
